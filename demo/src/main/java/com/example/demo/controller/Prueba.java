@@ -16,7 +16,7 @@ import javax.validation.Valid;
 @Controller
 public class Prueba {
 
-    //identamos la interface personaDAO de la base de datos dentro del controlador
+    //Identamos la interface personaDAO de la base de datos dentro del controlador
     @Autowired
     private PersonaServiceImpo personaServiceImpo;
 
